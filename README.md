@@ -2,5 +2,5 @@
 
 ## Translation status
 
-[![Translation status](https://hosted.weblate.org/widgets/egami/-/svg-badge.svg)](https://hosted.weblate.org/engage/egami/)
+[![Translation status](https://hosted.weblate.org/widgets/egami/-/egamix/open-graph.png)](https://hosted.weblate.org/engage/egami/)
 
