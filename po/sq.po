@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-28 19:26+0000\n"
-"PO-Revision-Date: 2021-11-12 12:59+0000\n"
+"PO-Revision-Date: 2021-11-12 13:04+0000\n"
 "Last-Translator: BliNeR-KeY <blinerg@gmail.com>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/egami/egamix/sq/"
 ">\n"
@@ -994,7 +994,7 @@ msgstr ""
 msgid "%d"
 msgid_plural "%d"
 msgstr[0] "%d"
-msgstr[1] ""
+msgstr[1] "%d"
 
 msgid "%d %B %Y"
 msgstr ""
@@ -19746,47 +19746,47 @@ msgid "Vertical turning speed"
 msgstr "Shpejtësia vertikale e kthesës"
 
 msgid "VerticalEPG settings"
-msgstr ""
+msgstr "Cilësimet VerticalEPG"
 
 msgid "Very fast"
-msgstr ""
+msgstr "Shumë shpejt."
 
 msgid "Very short filenames"
-msgstr ""
+msgstr "Emrat shumë të shkurtër të file"
 
 msgid "Very slow"
-msgstr ""
+msgstr "Shumë ngadalë"
 
 msgid "Very very short filenames - Warning"
-msgstr ""
+msgstr "Emri shumë i shkurtër i file - Paralajmërim"
 
 msgid "ViX EPG"
-msgstr ""
+msgstr "ViX EPG"
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video PID"
-msgstr ""
+msgstr "PID video"
 
 msgid "Video Settings"
-msgstr ""
+msgstr "Cilësimet e videos"
 
 msgid "Video clipping"
-msgstr ""
+msgstr "Videoklip"
 
 msgid "Video clipping setup"
-msgstr ""
+msgstr "Konfigurimi i videoklipeve"
 
 #, python-format
 msgid "Video content: %ix%i%s %iHz"
-msgstr ""
+msgstr "Përmbajtja e videos: %ix%i%s %iHz"
 
 msgid "Video enhancement preview"
-msgstr ""
+msgstr "Pamja paraprake e përmirësimit të videos"
 
 msgid "Video enhancement setup"
-msgstr ""
+msgstr "Konfigurimi i përmirësimit të videos"
 
 msgid ""
 "Video input selection\n"
@@ -19796,6 +19796,12 @@ msgid ""
 "\n"
 "The next input port will be automatically probed in 10 seconds."
 msgstr ""
+"Zgjedhja e hyrjes së videos\n"
+"\n"
+"Ju lutemi, shtypni OK nëse mund ta shihni këtë faqe në televizorin tuaj (ose "
+"zgjidhni një portë tjetër hyrjeje).\n"
+"\n"
+"Porta tjetër e hyrjes do të hetohet automatikisht pas 10 sekondash."
 
 msgid "Video mode selection."
 msgstr ""
