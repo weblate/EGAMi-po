@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-28 19:26+0000\n"
-"PO-Revision-Date: 2021-11-12 13:04+0000\n"
+"PO-Revision-Date: 2021-11-12 16:20+0000\n"
 "Last-Translator: BliNeR-KeY <blinerg@gmail.com>\n"
 "Language-Team: Albanian <https://hosted.weblate.org/projects/egami/egamix/sq/"
 ">\n"
@@ -856,34 +856,34 @@ msgid "%a %Y/%-m/%d"
 msgstr "%A %Y/%-m/%d"
 
 msgid "%a %Y/%m/%-d"
-msgstr ""
+msgstr "%A %Y/%m/%-d"
 
 msgid "%a %Y/%m/%d"
-msgstr ""
+msgstr "%A %Y/%m/%d"
 
 msgid "%a %b %-d"
-msgstr ""
+msgstr "%a %b %-d"
 
 msgid "%a %b %-d %Y"
-msgstr ""
+msgstr "%a %b %-d %Y"
 
 msgid "%a %b %d"
-msgstr ""
+msgstr "%a %b %d"
 
 msgid "%a %b %d %Y"
-msgstr ""
+msgstr "%a %b %d %Y"
 
 msgid "%a %b-%-d"
-msgstr ""
+msgstr "%a %b-%-d"
 
 msgid "%a %b-%-d-%Y"
-msgstr ""
+msgstr "%a %b-%-d-%Y"
 
 msgid "%a %b-%d"
-msgstr ""
+msgstr "%a %b-%d"
 
 msgid "%a %b-%d-%Y"
-msgstr ""
+msgstr "%a %b-%d-%Y"
 
 msgid "%a %d"
 msgstr "%a %d"
@@ -904,58 +904,58 @@ msgid "%a %d-%B-%Y"
 msgstr "%A %d-%B-%Y"
 
 msgid "%a %d-%b"
-msgstr ""
+msgstr "%a %d-%b"
 
 msgid "%a %d-%b-%Y"
-msgstr ""
+msgstr "%a %d-%b-%Y"
 
 msgid "%a %d. %B %Y"
-msgstr ""
+msgstr "%A %d. %B %Y"
 
 msgid "%a %d. %b"
-msgstr ""
+msgstr "%a %-d %b"
 
 msgid "%a %d. %b %Y"
-msgstr ""
+msgstr "%a %d. %b %Y"
 
 msgid "%a %d.%-m"
-msgstr ""
+msgstr "%a %d.%-m"
 
 msgid "%a %d.%-m.%Y"
-msgstr ""
+msgstr "%A %-d.%-m.%Y"
 
 msgid "%a %d.%m"
-msgstr ""
+msgstr "%a %d.%m"
 
 msgid "%a %d.%m.%Y"
-msgstr ""
+msgstr "%A %-d.%m.%Y"
 
 msgid "%a %d/%-m"
-msgstr ""
+msgstr "%A %-d.%-m"
 
 msgid "%a %d/%-m/%Y"
-msgstr ""
+msgstr "%A %d/%-m/%Y"
 
 msgid "%a %d/%m"
-msgstr ""
+msgstr "%a %d/%m"
 
 msgid "%a %d/%m/%Y"
-msgstr ""
+msgstr "%A %d/%m/%Y"
 
 msgid "%a %m/%-d"
-msgstr ""
+msgstr "%a %m/%-d"
 
 msgid "%a %m/%-d/%Y"
-msgstr ""
+msgstr "%A %m/%-d/%Y"
 
 msgid "%a %m/%d"
-msgstr ""
+msgstr "%a %m/%d"
 
 msgid "%a %m/%d/%Y"
-msgstr ""
+msgstr "%A %m/%d/%Y"
 
 msgid "%b %-d"
-msgstr ""
+msgstr "%b %-d"
 
 msgid "%b %-d %Y"
 msgstr ""
@@ -2671,60 +2671,62 @@ msgid ""
 "Allows you to set the maximum size of the Debug log size (MB). When that "
 "size is reached, a new file will be created."
 msgstr ""
+"Ju lejon të vendosni madhësinë maksimale të madhësisë së log debug (MB). Kur "
+"të arrihet kjo madhësi, do të krijohet një file i ri."
 
 msgid "Allows you to setup the button to do what you choose."
-msgstr ""
+msgstr "Ju lejon të konfiguroni butonin për të bërë atë që ju zgjidhni."
 
 msgid "Allows you to show/hide CCcam in extensions (blue button)."
-msgstr ""
+msgstr "Ju lejon të shfaqni/fshehni CCcam në shtesa (butoni blu)."
 
 msgid "Allows you to show/hide Log Manager in extensions (blue button)."
-msgstr ""
+msgstr "Ju lejon të shfaqni/fshehni Log Manager në shtesat (butoni blu)."
 
 msgid "Allows you to show/hide OScam in extensions (blue button)."
-msgstr ""
+msgstr "Ju lejon të shfaqni/fshehni OScam në shtesa (butoni blu)."
 
 msgid "Almost there... "
-msgstr ""
+msgstr "Pothuajse atje... "
 
 msgid "Alpha"
-msgstr ""
+msgstr "Alfa"
 
 msgid "Alphabetical under headings"
-msgstr ""
+msgstr "Sipas titujve sipas alfabetit"
 
 msgid "Alphanumeric"
-msgstr ""
+msgstr "Alfanumerik"
 
 msgid "Also on standby"
-msgstr ""
+msgstr "Gjithashtu në gatishmëri"
 
 msgid "Alternative"
-msgstr ""
+msgstr "Alternativa"
 
 msgid "Alternative 1"
-msgstr ""
+msgstr "Alternativa 1"
 
 msgid "Alternative 2"
-msgstr ""
+msgstr "Alternativa 1"
 
 msgid "Alternative numbering mode"
-msgstr ""
+msgstr "Mënyra alternative e numërimit"
 
 msgid "Alternative radio mode"
-msgstr ""
+msgstr "Mënyra alternative e radios"
 
 msgid "Alternative services tuner priority"
-msgstr ""
+msgstr "Përparësia e shërbimeve alternative"
 
 msgid "Always ask"
-msgstr ""
+msgstr "Gjithmonë pyesni"
 
 msgid "Always hide infobar"
-msgstr ""
+msgstr "Fshihe gjithmonë shiritin e informacionit"
 
 msgid "Always include ECM in recordings"
-msgstr ""
+msgstr "Gjithmonë përfshini ECM në regjistrime"
 
 msgid ""
 "Always include ECM messages in recordings. This overrides the individual "
@@ -2732,27 +2734,31 @@ msgid ""
 "afterwards (sometimes called offline decoding), if supported by your "
 "receiver. Default: off."
 msgstr ""
+"Përfshini gjithmonë mesazhet ECM në regjistrime. Kjo anashkalon cilësimet "
+"individuale të kohëmatësit globalisht. Ai lejon që regjistrimet të "
+"deshifrohen gjithmonë më pas (nganjëherë quhet deshifrim offline), nëse "
+"mbështetet nga marrësi juaj. Parazgjedhja: joaktive."
 
 msgid "Always select OK"
-msgstr ""
+msgstr "Gjithmonë zgjidhni OK"
 
 msgid "Always show bouquets"
-msgstr ""
+msgstr "Trego gjithmonë buqeta"
 
 msgid "Always use smart1080p mode"
-msgstr ""
+msgstr "Përdorni gjithmonë modalitetin smart1080p"
 
 msgid "American Football"
-msgstr ""
+msgstr "Futboll amerikan"
 
 msgid "American Samoa"
-msgstr ""
+msgstr "Samoa Amerikane"
 
 msgid "American Sports"
-msgstr ""
+msgstr "Sporti Amerikan"
 
 msgid "Amharic"
-msgstr ""
+msgstr "amharike"
 
 msgid ""
 "An attempt is made to capture the current TV status. If this is not possible "
@@ -2760,51 +2766,58 @@ msgid ""
 "respond unexpectedly.\n"
 "On the other hand, tries to respond better to different operating conditions."
 msgstr ""
+"Bëhet një përpjekje për të kapur statusin aktual të televizorit. Nëse kjo "
+"nuk është e mundur për shkak të mesazheve të pasakta ose të mungesës së "
+"statusit, mund të shkaktojë që marrësi të përgjigjet në mënyrë të papritur.\n"
+"Nga ana tjetër, përpiqet t'i përgjigjet më mirë kushteve të ndryshme të "
+"funksionimit."
 
 msgid "An empty filename is illegal."
-msgstr ""
+msgstr "Një emër i zbrazët file është i paligjshëm."
 
 msgid "An error occurred while downloading the packetlist. Please try again."
 msgstr ""
+"Ndodhi një gabim gjatë shkarkimit të listës së paketave. Ju lutemi provoni "
+"përsëri."
 
 msgid "An unknown error occurred!"
-msgstr ""
+msgstr "Ndodhi një gabim i panjohur!"
 
 msgid "Andorra"
-msgstr ""
+msgstr "Andorra"
 
 msgid "Angola"
-msgstr ""
+msgstr "Angola"
 
 msgid "Anguilla"
-msgstr ""
+msgstr "Anguilla"
 
 msgid "Animation"
-msgstr ""
+msgstr "Animacion"
 
 msgid "Animation Setup"
-msgstr ""
+msgstr "Organizimi i animacionit"
 
 msgid "Animation Speed"
-msgstr ""
+msgstr "Shpejtësia e animacionit"
 
 msgid "Animation speed of help indicators"
-msgstr ""
+msgstr "Treguesit e shpejtësisë së animacionit të ndihmës"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animacion"
 
 msgid "Anime"
-msgstr ""
+msgstr "Anime"
 
 msgid "Antarctica"
-msgstr ""
+msgstr "Antarktida"
 
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Antigua dhe Barbuda"
 
 msgid "Any activity"
-msgstr ""
+msgstr "Çdo aktivitet"
 
 msgid "Apply any changes to the active locale/language and exit"
 msgstr ""
