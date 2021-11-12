@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-28 19:26+0000\n"
-"PO-Revision-Date: 2021-10-16 07:51+0000\n"
-"Last-Translator: Bujar Tafili <bujartafili@yahoo.com>\n"
-"Language-Team: Albanian <https://hosted.weblate.org/projects/openatv/"
-"enigma2-7-0-po/sq/>\n"
+"PO-Revision-Date: 2021-11-12 13:04+0000\n"
+"Last-Translator: BliNeR-KeY <blinerg@gmail.com>\n"
+"Language-Team: Albanian <https://hosted.weblate.org/projects/egami/egamix/sq/"
+">\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.9.1-dev\n"
 
 msgid ""
 "\n"
@@ -246,7 +246,7 @@ msgid "  Menu key : Select quad channel"
 msgstr "  Butoni i Menysë: Përzgjidhni kanalin e katërfishtë"
 
 msgid "  REC  "
-msgstr ""
+msgstr "  REC  "
 
 msgid "  Red key : Show/Hide channel name"
 msgstr "  Butoni i kuq : Shfaqni/Fshihni emrin e kanalit"
@@ -315,7 +315,7 @@ msgid " <empty>"
 msgstr " <e zbrazët>"
 
 msgid " HI "
-msgstr ""
+msgstr " PËRSHËNDETJE "
 
 msgid " and"
 msgstr " dhe"
@@ -702,158 +702,158 @@ msgid "%Y %B %d"
 msgstr "%Y %B %d"
 
 msgid "%Y %b %-d"
-msgstr ""
+msgstr "%Y %b %-d"
 
 msgid "%Y %b %d"
-msgstr ""
+msgstr "%Y %b %d"
 
 msgid "%Y-%B-%-d"
-msgstr ""
+msgstr "%Y-%B-%-d"
 
 msgid "%Y-%B-%d"
-msgstr ""
+msgstr "%Y-%B-%d"
 
 msgid "%Y-%b-%-d"
-msgstr ""
+msgstr "%Y-%b-%-d"
 
 msgid "%Y-%b-%d"
-msgstr ""
+msgstr "%Y-%b-%d"
 
 msgid "%Y-%m-%d"
-msgstr ""
+msgstr "%Y-%m-%d"
 
 msgid "%Y-%m-%d %H-%M"
-msgstr ""
+msgstr "%Y-%m-%d %H-%M"
 
 msgid "%Y/%-m/%-d"
-msgstr ""
+msgstr "%Y/%-m/%-d"
 
 msgid "%Y/%-m/%d"
-msgstr ""
+msgstr "%Y/%-m/%d"
 
 msgid "%Y/%m/%-d"
-msgstr ""
+msgstr "%A %Y/%m/%-d"
 
 msgid "%Y/%m/%d"
-msgstr ""
+msgstr "%Y/%-m/%d"
 
 msgid "%a"
-msgstr ""
+msgstr "%a"
 
 #. TRANSLATORS: small date representation short dayname daynum in strftime() format! See 'man strftime'
 msgid "%a %-d"
-msgstr ""
+msgstr "%a %-d"
 
 #. TRANSLATORS: long date representation short dayname daynum monthname year in strftime() format! See 'man strftime'
 msgid "%a %-d %B %Y"
-msgstr ""
+msgstr "%A %-d %B %Y"
 
 #. TRANSLATORS: short date representation short dayname daynum short monthname in strftime() format! See 'man strftime'
 msgid "%a %-d %b"
-msgstr ""
+msgstr "%a %-d %b"
 
 #. TRANSLATORS: long date representation short dayname daynum short monthname year in strftime() format! See 'man strftime'
 msgid "%a %-d %b %Y"
-msgstr ""
+msgstr "%A %-d %B %Y"
 
 msgid "%a %-d+%b_"
-msgstr ""
+msgstr "%a %-d+%b_"
 
 msgid "%a %-d-%B-%Y"
-msgstr ""
+msgstr "%A %-d-%B-%Y"
 
 msgid "%a %-d-%b"
-msgstr ""
+msgstr "%a %-d-%b"
 
 msgid "%a %-d-%b-%Y"
-msgstr ""
+msgstr "%a %d-%b-%Y"
 
 msgid "%a %-d. %B %Y"
-msgstr ""
+msgstr "%A %-d %B %Y"
 
 msgid "%a %-d. %b"
-msgstr ""
+msgstr "%a %-d %b"
 
 msgid "%a %-d. %b %Y"
-msgstr ""
+msgstr "%A %-d %B %Y"
 
 msgid "%a %-d.%-m"
-msgstr ""
+msgstr "%A %-d.%-m"
 
 msgid "%a %-d.%-m.%Y"
-msgstr ""
+msgstr "%A %-d.%-m.%Y"
 
 msgid "%a %-d.%m"
-msgstr ""
+msgstr "%a %-d.%m"
 
 msgid "%a %-d.%m.%Y"
-msgstr ""
+msgstr "%A %-d.%m.%Y"
 
 msgid "%a %-d/%-m"
-msgstr ""
+msgstr "%A %-d.%-m"
 
 msgid "%a %-d/%-m/%Y"
-msgstr ""
+msgstr "%A %-d/%-m/%Y"
 
 msgid "%a %-d/%m"
-msgstr ""
+msgstr "%A %-d.%-m"
 
 msgid "%a %-d/%m/%Y"
-msgstr ""
+msgstr "%A %-d/%m/%Y"
 
 msgid "%a %-m/%-d"
-msgstr ""
+msgstr "%A %-m/%-d"
 
 msgid "%a %-m/%-d/%Y"
-msgstr ""
+msgstr "%A %-m/%-d/%Y"
 
 msgid "%a %-m/%d"
-msgstr ""
+msgstr "%a %-m/%d"
 
 msgid "%a %-m/%d/%Y"
-msgstr ""
+msgstr "%A %-m/%d/%Y"
 
 msgid "%a %B %-d %Y"
-msgstr ""
+msgstr "%A %B %-d %Y"
 
 msgid "%a %B %d %Y"
-msgstr ""
+msgstr "%A %B %d %Y"
 
 msgid "%a %B-%-d-%Y"
-msgstr ""
+msgstr "%A %B-%-d-%Y"
 
 msgid "%a %B-%d-%Y"
-msgstr ""
+msgstr "%A %B-%d-%Y"
 
 msgid "%a %Y %B %-d"
-msgstr ""
+msgstr "%A %Y %B %-d"
 
 msgid "%a %Y %B %d"
-msgstr ""
+msgstr "%A %Y %B %d"
 
 msgid "%a %Y %b %-d"
-msgstr ""
+msgstr "%a %Y %b %-d"
 
 msgid "%a %Y %b %d"
-msgstr ""
+msgstr "%A %Y %B %-d"
 
 msgid "%a %Y-%B-%-d"
-msgstr ""
+msgstr "%A %Y-%B-%-d"
 
 msgid "%a %Y-%B-%d"
-msgstr ""
+msgstr "%A %Y-%B-%d"
 
 msgid "%a %Y-%b-%-d"
-msgstr ""
+msgstr "%a %Y-%b-%-d"
 
 msgid "%a %Y-%b-%d"
-msgstr ""
+msgstr "%a %Y-%b-%d"
 
 msgid "%a %Y/%-m/%-d"
-msgstr ""
+msgstr "%A %Y/%-m/%-d"
 
 msgid "%a %Y/%-m/%d"
-msgstr ""
+msgstr "%A %Y/%-m/%d"
 
 msgid "%a %Y/%m/%-d"
 msgstr ""
@@ -886,22 +886,22 @@ msgid "%a %b-%d-%Y"
 msgstr ""
 
 msgid "%a %d"
-msgstr ""
+msgstr "%a %d"
 
 msgid "%a %d %B"
-msgstr ""
+msgstr "%a %d %B"
 
 msgid "%a %d %B %Y"
-msgstr ""
+msgstr "%A %-d %B %Y"
 
 msgid "%a %d %b"
-msgstr ""
+msgstr "%a %d %b"
 
 msgid "%a %d %b %Y"
-msgstr ""
+msgstr "%a %d %b %Y"
 
 msgid "%a %d-%B-%Y"
-msgstr ""
+msgstr "%A %d-%B-%Y"
 
 msgid "%a %d-%b"
 msgstr ""
@@ -994,7 +994,7 @@ msgstr ""
 msgid "%d"
 msgid_plural "%d"
 msgstr[0] "%d"
-msgstr[1] ""
+msgstr[1] "%d"
 
 msgid "%d %B %Y"
 msgstr ""
@@ -19721,72 +19721,72 @@ msgstr ""
 
 #, python-format
 msgid "Version / Build:\t\t%s  (%s)"
-msgstr ""
+msgstr "Versioni / Ndërtimi: %s (%s)"
 
 msgid "Version: "
-msgstr ""
+msgstr "Versioni: "
 
 #, python-format
 msgid "Version: %s"
-msgstr ""
+msgstr "Versioni: %s"
 
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikale"
 
 msgid "Vertical EPG"
-msgstr ""
+msgstr "EPG vertikale"
 
 msgid "Vertical alignement for the event-progress."
-msgstr ""
+msgstr "Shtrirje vertikale për event-progresin."
 
 msgid "Vertical alignement for the service number."
-msgstr ""
+msgstr "Rreshtimi vertikal për numrin e shërbimit."
 
 msgid "Vertical turning speed"
-msgstr ""
+msgstr "Shpejtësia vertikale e kthesës"
 
 msgid "VerticalEPG settings"
-msgstr ""
+msgstr "Cilësimet VerticalEPG"
 
 msgid "Very fast"
-msgstr ""
+msgstr "Shumë shpejt."
 
 msgid "Very short filenames"
-msgstr ""
+msgstr "Emrat shumë të shkurtër të file"
 
 msgid "Very slow"
-msgstr ""
+msgstr "Shumë ngadalë"
 
 msgid "Very very short filenames - Warning"
-msgstr ""
+msgstr "Emri shumë i shkurtër i file - Paralajmërim"
 
 msgid "ViX EPG"
-msgstr ""
+msgstr "ViX EPG"
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "Video PID"
-msgstr ""
+msgstr "PID video"
 
 msgid "Video Settings"
-msgstr ""
+msgstr "Cilësimet e videos"
 
 msgid "Video clipping"
-msgstr ""
+msgstr "Videoklip"
 
 msgid "Video clipping setup"
-msgstr ""
+msgstr "Konfigurimi i videoklipeve"
 
 #, python-format
 msgid "Video content: %ix%i%s %iHz"
-msgstr ""
+msgstr "Përmbajtja e videos: %ix%i%s %iHz"
 
 msgid "Video enhancement preview"
-msgstr ""
+msgstr "Pamja paraprake e përmirësimit të videos"
 
 msgid "Video enhancement setup"
-msgstr ""
+msgstr "Konfigurimi i përmirësimit të videos"
 
 msgid ""
 "Video input selection\n"
@@ -19796,6 +19796,12 @@ msgid ""
 "\n"
 "The next input port will be automatically probed in 10 seconds."
 msgstr ""
+"Zgjedhja e hyrjes së videos\n"
+"\n"
+"Ju lutemi, shtypni OK nëse mund ta shihni këtë faqe në televizorin tuaj (ose "
+"zgjidhni një portë tjetër hyrjeje).\n"
+"\n"
+"Porta tjetër e hyrjes do të hetohet automatikisht pas 10 sekondash."
 
 msgid "Video mode selection."
 msgstr ""
